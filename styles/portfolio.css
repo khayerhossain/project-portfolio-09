@@ -210,3 +210,10 @@ textarea {
     border: 0;
     width: 100%;
 }
+
+.copyright-symbol {
+    text-align: center;
+    font-size: 9px;
+    font-weight: 100;
+    color: #474747;
+}
